@@ -10,8 +10,6 @@ images: ["say-hello-to-doks.png"]
 contributors: ["BulletTech"]
 ---
 
-# 关于我们
-
 ## 1 团队简介
 
 大家好，这里是BulletTech！
@@ -23,6 +21,7 @@ contributors: ["BulletTech"]
 </figure>
 
 ## 2 内容概览
+
 我们会烹饪美味又营养的科技内容给大家，主要包含两种佳肴：
 
 - 科技正餐：聚焦编程、数据分析、机器学习、深度学习，定期更新原创精华、热点资讯。
@@ -31,6 +30,7 @@ contributors: ["BulletTech"]
 我们会坚持分享对大家有用的，生活中有趣的内容，希望各位保持关注，谢谢！
 
 ## 3 联系我们
+
 如想详细交流，请扫码添加管理员微信。
 
 <figure>
