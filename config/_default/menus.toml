@@ -10,10 +10,10 @@
   identifier = "help"
   url = "/docs/help/"
 
-[[main]]
-  name = "Main Course"
-  url = "/Main_Course/"
-  weight = 20
+# [[main]]
+#   name = "Main Course"
+#   url = "/Main_Course/"
+#   weight = 20
 
 [[main]]
   name = "Docs"
