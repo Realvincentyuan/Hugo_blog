@@ -11,6 +11,7 @@ menu:
     parent: "prologue"
 weight: 130
 toc: true
+contributors: ["Vincent Yuan"]
 ---
 
 {{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
