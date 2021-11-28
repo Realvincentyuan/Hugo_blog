@@ -39,7 +39,7 @@ GitHub在版本管理和协同工作方面是绝佳的工具之一。
 
 具体来说，版本管理的功能可以帮助保存文件的修改历史，以便在需要回溯时能很方便地检查和回滚。
 
-![GitHub Desktop查看历史版本](https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489404945-Github%20%E6%9F%A5%E7%9C%8B%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.png 'GitHub Desktop查看历史版本')
+{{< img src="https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489404945-Github%20%E6%9F%A5%E7%9C%8B%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.png" alt="GitHub Desktop查看历史版本" caption="GitHub Desktop查看历史版本" class="border-0" >}}
 
 示例中是BulletTech的仓库，过往的更改历史都被保存了下来，点击更改即可看到更改的文件和对应的更新。
 
