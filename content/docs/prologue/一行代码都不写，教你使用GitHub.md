@@ -27,7 +27,7 @@ contributors: ["袁子弹起飞"]
 - 合并请求（Pull request）：用于将分支上的修改合并到主干上
 - 合并（Merged）：分支上的更改被合并到主干上，仓库状态更新
 
-{{< img src="https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489355119-Github%20%E5%9B%BE%E4%BE%8B.png"  caption="GitHub 常见术语图示"  >}}
+{{< img src="https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489355119-Github%20%E5%9B%BE%E4%BE%8B.png" alt="GitHub 常见术语图示" caption="GitHub 常见术语图示" class="border-0" >}}
 
 接下来，将主要会使用GitHub的桌面客户端（在GitHub的官方网站可免费下载）进行功能介绍，借助这个app，可以使用GitHub绝大多数的核心功能。
 
