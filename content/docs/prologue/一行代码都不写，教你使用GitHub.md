@@ -5,7 +5,7 @@ lead: "零基础入门GitHub，一行代码都不写就可以使用GitHub强大�
 date: 2021-06-23T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
-images: [https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489355119-Github%20%E5%9B%BE%E4%BE%8B.png,https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489404945-Github%20%E6%9F%A5%E7%9C%8B%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.png]
+images: []
 menu:
   docs:
     parent: "prologue"
@@ -27,7 +27,7 @@ contributors: ["袁子弹起飞"]
 - 合并请求（Pull request）：用于将分支上的修改合并到主干上
 - 合并（Merged）：分支上的更改被合并到主干上，仓库状态更新
 
-{{< img src="https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489355119-Github%20%E5%9B%BE%E4%BE%8B.png" alt="GitHub 常见术语图示" caption="GitHub 常见术语图示" class="border-0" >}}
+{{< image src="https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489355119-Github%20%E5%9B%BE%E4%BE%8B.png" alt="GitHub 常见术语图示" caption="GitHub 常见术语图示" class="border-0" >}}
 
 接下来，将主要会使用GitHub的桌面客户端（在GitHub的官方网站可免费下载）进行功能介绍，借助这个app，可以使用GitHub绝大多数的核心功能。
 
@@ -39,7 +39,7 @@ GitHub在版本管理和协同工作方面是绝佳的工具之一。
 
 具体来说，版本管理的功能可以帮助保存文件的修改历史，以便在需要回溯时能很方便地检查和回滚。
 
-{{< img src="https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489404945-Github%20%E6%9F%A5%E7%9C%8B%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.png" alt="GitHub Desktop查看历史版本" caption="GitHub Desktop查看历史版本" class="border-0" >}}
+{{< image src="https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489404945-Github%20%E6%9F%A5%E7%9C%8B%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.png" alt="GitHub Desktop查看历史版本" caption="GitHub Desktop查看历史版本" class="border-0" >}}
 
 示例中是BulletTech的仓库，过往的更改历史都被保存了下来，点击更改即可看到更改的文件和对应的更新。
 
