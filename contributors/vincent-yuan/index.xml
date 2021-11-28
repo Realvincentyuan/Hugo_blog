@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vincent Yuan on</title><link>https://realvincentyuan.github.io/Hugo_blog/contributors/vincent-yuan/</link><description>Recent content in Vincent Yuan on</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Tue, 13 Oct 2020 15:21:01 +0200</lastBuildDate><atom:link href="https://realvincentyuan.github.io/Hugo_blog/contributors/vincent-yuan/index.xml" rel="self" type="application/rss+xml"/><item><title>Commands</title><link>https://realvincentyuan.github.io/Hugo_blog/docs/prologue/commands/</link><pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate><guid>https://realvincentyuan.github.io/Hugo_blog/docs/prologue/commands/</guid><description>💡 You can change the commands in the scripts section of `./package.json`. create Create new content for your site:
-npm run create [path] [flags] See also the Hugo docs: hugo new.
-lint Check scripts, styles, and markdown for errors:
-npm run lint scripts Check scripts for errors:
-npm run lint:scripts [-- --fix] styles Check styles for errors:
-npm run lint:styles [-- --fix] markdown Check markdown for errors:</description></item></channel></rss>
