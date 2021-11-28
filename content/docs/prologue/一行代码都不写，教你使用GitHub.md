@@ -5,7 +5,7 @@ lead: "零基础入门GitHub，一行代码都不写就可以使用GitHub强大�
 date: 2021-06-23T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
-images: []
+images: [https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489355119-Github%20%E5%9B%BE%E4%BE%8B.png,https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489404945-Github%20%E6%9F%A5%E7%9C%8B%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.png]
 menu:
   docs:
     parent: "prologue"
