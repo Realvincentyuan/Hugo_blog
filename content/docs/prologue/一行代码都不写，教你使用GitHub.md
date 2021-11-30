@@ -32,7 +32,7 @@ contributors: ["袁子弹起飞"]
   <figcaption>GitHub 常见术语图示</figcaption>
 </figure>
 
-{{< img src="https://cdn.jsdelivr.net/gh/BulletTech2021/Pics/2021-7-17/1626489355119-Github%20%E5%9B%BE%E4%BE%8B.png" alt="GitHub 常见术语图示" caption="GitHub 常见术语图示" class="border-0" >}}
+{{< img src="say-hello-to-doks.png" alt="GitHub 常见术语图示" caption="GitHub 常见术语图示" class="border-0" >}}
 
 接下来，将主要会使用GitHub的桌面客户端（在GitHub的官方网站可免费下载）进行功能介绍，借助这个app，可以使用GitHub绝大多数的核心功能。
 
