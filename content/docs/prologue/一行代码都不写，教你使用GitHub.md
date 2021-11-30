@@ -1,4 +1,4 @@
-+---
+---
 title: "一行代码都不写，教你使用GitHub"
 description: "零基础入门GitHub，一行代码都不写就可以使用GitHub强大的功能"
 lead: "零基础入门GitHub，一行代码都不写就可以使用GitHub强大的功能"
